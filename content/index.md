@@ -5,7 +5,7 @@ description: "Welcome to my homepage! 👋"
 
 <header class="text-center">
   <img src="/img/mashiro.jpg" class="w-2/5 rounded-full mx-auto" />
-  <h1>Welcome to my homepage! 👋</h1>
+  <h1 class="text-primary">Welcome to my homepage! 👋</h1>
 </header>
 
 My name is **Nam Vu**, a.k.a. **NextFire**.
