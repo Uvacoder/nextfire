@@ -13,7 +13,7 @@ useHead({
 </script>
 
 <template>
-  <div class="drawer drawer-mobile">
+  <div class="drawer max-h-screen drawer-mobile">
     <input id="app-drawer" type="checkbox" class="drawer-toggle" />
 
     <!-- Page content here -->
