@@ -1,42 +1,19 @@
-# Nuxt 3 Minimal Starter
+<!--
+### Hi there 👋
 
-Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
 
-## Setup
+**NextFire/NextFire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Make sure to install the dependencies:
+Here are some ideas to get you started:
 
-```bash
-# yarn
-yarn install
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
-# npm
-npm install
-
-# pnpm
-pnpm install --shamefully-hoist
-```
-
-## Development Server
-
-Start the development server on http://localhost:3000
-
-```bash
-npm run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-npm run build
-```
-
-Locally preview production build:
-
-```bash
-npm run preview
-```
-
-Checkout the [deployment documentation](https://v3.nuxtjs.org/guide/deploy/presets) for more information.
+🐈 🐧 🏕
